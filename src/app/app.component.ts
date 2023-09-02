@@ -36,6 +36,7 @@ export class AppComponent implements OnInit {
       return {'noSpaceAllowed': true}
     }
     return null;
+   
 
   }
 }
